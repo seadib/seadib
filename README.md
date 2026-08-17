@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Building+the+web%2C+one+line+at+a+time.;Dhaka+College+%7C+HSC+2027+%7C+Science.;Learning+every+single+day." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Building+the+web%2C+one+line+at+a+time.;Dhaka+College+%7C+HSC+2027+%7C+Science.;Learning+every+single+day." alt="Typing" />
 
 <br/><br/>
 
@@ -14,13 +14,11 @@
 &nbsp;
 <a href="https://github.com/seadib?tab=followers"><img src="https://img.shields.io/github/followers/seadib?label=Followers&style=for-the-badge&color=238636&labelColor=0d1117" /></a>
 
-<br/><br/>
-
 </div>
 
----
-
 <br/>
+
+---
 
 ```yaml
   name     :  Abdullah Al Adib
@@ -30,8 +28,6 @@
   location :  Dhaka, Bangladesh
   goal     :  "Create something no one has done before."
 ```
-
-<br/>
 
 ---
 
@@ -47,7 +43,7 @@ Every project is a new lesson.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,c,git,github,netlify,vscode&perline=8" alt="Skill Icons" />
+<img src="https://skillicons.dev/icons?i=html,css,js,c,git,github,netlify,vscode&perline=8" alt="Skills" />
 
 <br/><br/>
 
@@ -66,12 +62,40 @@ Every project is a new lesson.
 
 <div align="center">
 
-| Project | Description | Link |
-|:---|:---|:---:|
-| **Dhaka College Science Club** | Science club portal for DC students | [Visit](https://dhakacollegescienceclub.github.io) |
-| **Dhaka College Hall** | Official hall web platform | [Visit](https://dchall.netlify.app) |
-| **Personal Blog** | Articles, notes and dev writeups | [Visit](https://seadib.blogspot.com) |
-| **Dr Sahitto** | Literature and creative writing | [Visit](https://drsahitto.blogspot.com) |
+<table>
+  <tr>
+    <td align="center" width="240">
+      <strong>Dhaka College Science Club</strong><br/>
+      <sub>Science club portal for DC students</sub><br/><br/>
+      <a href="https://dhakacollegescienceclub.github.io">
+        <img src="https://img.shields.io/badge/Open_Project-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="240">
+      <strong>Dhaka College Hall</strong><br/>
+      <sub>Official hall web platform</sub><br/><br/>
+      <a href="https://dchall.netlify.app">
+        <img src="https://img.shields.io/badge/Open_Project-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="240">
+      <strong>Personal Blog</strong><br/>
+      <sub>Articles, notes and dev writeups</sub><br/><br/>
+      <a href="https://seadib.blogspot.com">
+        <img src="https://img.shields.io/badge/Read_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="240">
+      <strong>Dr Sahitto</strong><br/>
+      <sub>Literature and creative writing</sub><br/><br/>
+      <a href="https://drsahitto.blogspot.com">
+        <img src="https://img.shields.io/badge/Open_Project-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -81,13 +105,11 @@ Every project is a new lesson.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=seadib&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff&border_radius=10&include_all_commits=true" />
-&nbsp;&nbsp;
-<img height="170" src="https://streak-stats.demolab.com?user=seadib&theme=dark&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&border_radius=10" />
+<img src="https://streak-stats.demolab.com?user=seadib&theme=dark&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&border_radius=10" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seadib&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=10&langs_count=6&card_width=400" height="160" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seadib&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=10&langs_count=6&card_width=420&cache_seconds=1800" alt="Top Languages" />
 
 </div>
 
