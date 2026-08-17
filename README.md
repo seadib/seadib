@@ -107,10 +107,6 @@ Every project is a new lesson.
 
 <img src="https://streak-stats.demolab.com?user=seadib&theme=dark&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&border_radius=10" alt="GitHub Streak" />
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seadib&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=10&langs_count=6&card_width=420&cache_seconds=1800" alt="Top Languages" />
-
 </div>
 
 ---
