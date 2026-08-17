@@ -24,7 +24,7 @@
   name     :  Abdullah Al Adib
   username :  seadib
   role     :  Aspiring Software Engineer
-  school   :  Dhaka College  |  HSC 2027  |  Science
+  college  :  Dhaka College  |  HSC 2027  |  Science
   location :  Dhaka, Bangladesh
   goal     :  "Create something no one has done before."
 ```
